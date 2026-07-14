@@ -1,0 +1,64 @@
+name: aplikasi_layli
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- UI & ICONS ---
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  fl_chart: ^0.68.0
+  showcaseview: ^3.0.0
+
+  # --- FIREBASE (VERSI BARU YANG KOMPAK) ---
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+  firebase_storage: ^12.0.0  # <--- INI SAYA UBAH DARI 11.6.0 JADI 12.0.0
+
+  # --- STATE MANAGEMENT ---
+  provider: ^6.1.2
+
+  # --- MEDIA & STORAGE ---
+  image_picker: ^1.0.7
+  path_provider: ^2.1.5
+  shared_preferences: ^2.2.3
+  open_file: ^3.5.10
+  tutorial_coach_mark: ^1.2.9
+
+  # --- UTILITY ---
+  intl: ^0.19.0
+  pdf: ^3.10.4  # Tambahkan ini
+  printing: ^5.11.0 # Opsional, tapi bagus untuk layout pdf
+  uuid: ^4.5.2
+  share_plus: ^7.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1 
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  
+  # (Opsional) Jika logo kamu punya background transparan, iOS biasanya menolaknya. 
+  # Tambahkan baris di bawah ini agar background transparan diubah jadi putih khusus untuk iOS:
+  remove_alpha_ios: true 
+flutter:
+  uses-material-design: true
+  
+  # Pastikan file gambar ini ADA di folder 'assets'
+  assets:
+    - assets/logo.png
+    - assets/maskot_cewek.png
+    - assets/maskot_cowok.png

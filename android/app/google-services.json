@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324229384792",
+    "project_id": "targetku",
+    "storage_bucket": "targetku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324229384792:android:2c8e32ba04b9f00159182d",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_layli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8TOsKCS6-GmHmOOjDdUUlQSohzit8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
