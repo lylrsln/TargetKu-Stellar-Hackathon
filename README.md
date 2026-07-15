@@ -1,4 +1,4 @@
-# TargetKu: Smart Financial Guard 🛡️
+# TargetKu: Smart Financial Guard 
 
 TargetKu is a smart financial assistant designed to protect university students from impulsive spending and predatory loans. By utilizing a Rule-Based System and Soroban Smart Contracts, we autonomously manage and safeguard your financial goals.
 
