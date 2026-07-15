@@ -12,10 +12,10 @@ University students face a severe cost-of-living crisis. The failure to separate
 TargetKu proactively analyzes cash flow in real-time using a Forward Chaining Rule-Based System. It curbs impulsive spending and securely locks targeted savings into a Soroban Smart Contract Vault via a daily micro-consent mechanism. 
 
 # Tech Stack
-* Frontend/Mobile:** Flutter (Dart)
-* Backend & Local Storage:** Firebase, Shared Preferences
-* Core Logic Engine:** Custom Rule-Based System (Forward Chaining)
-* Web3 Integration (Expected):** Stellar Horizon API & Soroban Smart Contracts (Rust)
+* Frontend/Mobile: Flutter (Dart)
+* Backend & Local Storage: Firebase, Shared Preferences
+* Core Logic Engine: Custom Rule-Based System (Forward Chaining)
+* Web3 Integration (Expected): Stellar Horizon API & Soroban Smart Contracts (Rust)
 
 # Key Dependencies (pubspec.yaml)
 To build this project, we rely on several core packages:
