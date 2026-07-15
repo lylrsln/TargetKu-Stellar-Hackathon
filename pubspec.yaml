@@ -50,14 +50,10 @@ flutter_icons:
   android: true
   ios: true
   image_path: "assets/logo.png"
-  
-  # (Opsional) Jika logo kamu punya background transparan, iOS biasanya menolaknya. 
-  # Tambahkan baris di bawah ini agar background transparan diubah jadi putih khusus untuk iOS:
   remove_alpha_ios: true 
 flutter:
   uses-material-design: true
   
-  # Pastikan file gambar ini ADA di folder 'assets'
   assets:
     - assets/logo.png
     - assets/maskot_cewek.png
