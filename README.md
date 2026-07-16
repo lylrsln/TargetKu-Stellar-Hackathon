@@ -3,7 +3,7 @@
 TargetKu is a smart financial assistant designed to protect university students from impulsive spending and predatory loans. By utilizing a Rule-Based System and Soroban Smart Contracts, we autonomously manage and safeguard your financial goals.
 
 # IMPORTANT: Soroban Contract Address
-Contract Address (Testnet/Mainnet): `[TBA - To Be Announced during Development Sprint]`
+Contract Address (Testnet/Mainnet): `CCAGN6G5RAMTGUUPF3MHGJVIX6LBTJB5FRMNQ7KHXQHRWW7EZWTNMFXE`
 
 # The Problem
 University students face a severe cost-of-living crisis. The failure to separate essential priority expenses from flexible lifestyle spending often leads to mid-month liquidity crises, forcing them into predatory online loans (pinjol) just to survive or pay tuition.
