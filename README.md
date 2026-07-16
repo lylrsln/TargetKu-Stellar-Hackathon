@@ -5,6 +5,11 @@ TargetKu is a smart financial assistant designed to protect university students 
 # IMPORTANT: Soroban Contract Address
 Contract Address (Testnet/Mainnet): `CCAGN6G5RAMTGUUPF3MHGJVIX6LBTJB5FRMNQ7KHXQHRWW7EZWTNMFXE`
 
+# Try It Live (Android APK)
+Want to test the prototype instantly? You can download and install the Android APK directly here:
+[Download TargetKu APK](https://drive.google.com/file/d/1dvhPNu0sks_kwenUM2yfcK-BFj2sYB6f/view?usp=drive_link)
+
+*Note: Since this is a prototype, your phone might show an 'Unknown Developer' warning. You can safely select 'Install Anyway' to test the application.*
 # The Problem
 University students face a severe cost-of-living crisis. The failure to separate essential priority expenses from flexible lifestyle spending often leads to mid-month liquidity crises, forcing them into predatory online loans (pinjol) just to survive or pay tuition.
 
